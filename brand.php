@@ -1,3 +1,0 @@
-<?php
-	$domainName = "ConvertPNGtoJPGOnline.com";
-?>
